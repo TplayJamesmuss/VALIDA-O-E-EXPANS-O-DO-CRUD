@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Exemplo2SpringBootTurmaCApplication<exemplo2-spring-boot-turmaC>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.senac.tads.dsw.exemplo2.Exemplo2SpringBootTurmaCApplication",
+            "projectName": "exemplo2-spring-boot-turmaC",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Exemplo3SpringBootTurmaCApplication<exemplo2-spring-boot-turmaC>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.senac.tads.dsw.exemplo3.Exemplo3SpringBootTurmaCApplication",
+            "projectName": "exemplo2-spring-boot-turmaC",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
